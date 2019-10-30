@@ -15,12 +15,18 @@
 
 - [**Certificates**](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/Certificates "Сертификаты") - каталог с моими сертификатами об успешном прохождении курсов специализации.
 
-Репозиторий разбит на каталоги по курсам:
+- [Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Математика и Python для анализа данных")
+- [Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Обучение на размеченных данных")
+- [Поиск структуры в данных](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Поиск структуры в данных")
+
+___
+
+Репозиторий разбит на категории по курсам:
 
 - [Математика и Python для анализа данных](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/C1_Math_and_Python "Математика и Python для анализа данных")
 - [Обучение на размеченных данных](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/C2_Supervised_Learning "Обучение на размеченных данных")
-- [Поиск структуры в данных](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/C3_Unsupervised_Learning)
-- [Построение выводов по данным](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/C4_Stats_for_data_analysis)
+- [Поиск структуры в данных](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/C3_Unsupervised_Learning "Поиск структуры в данных")
+- [Построение выводов по данным](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/C4_Stats_for_data_analysis "Построение выводов по данным")
 - Прикладные задачи анализа данных
 - Анализ данных: финальный проект
 
