@@ -11,13 +11,13 @@
 
 В этот репозиторий будет выложена полезная информация, предоставленная к специализации **Машинное обучение и анализ данных** от Яндекс и МФТИ. Также в репозиторий будут выложены сертификаты, подтверждающие прохождение курсов специализации. Решения заданий и тестов **не выкладываю** по понятным причинам. В специализации для обучения и решения задач материал представлен на языке Python (в связке с Jupyter Notebook, Numpy, Scipy, Seaborn, Matplotlib, Pandas, Sci-kit Learn, Keras, Tensorflow и др).
 
-### Сертификаты:
+### [Сертификаты](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/Certificates "Сертификаты") 
 
-- [**Certificates**](https://github.com/capitanov/coursera_ml_da_specialization/tree/master/Certificates "Сертификаты") - каталог с моими сертификатами об успешном прохождении курсов специализации.
+Каталог с моими сертификатами об успешном прохождении курсов специализации.
 
-- [Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Математика и Python для анализа данных")
-- [Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Обучение на размеченных данных")
-- [Поиск структуры в данных](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Поиск структуры в данных")
+- [Курс 1: Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Математика и Python для анализа данных")
+- [Курс 2: Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Обучение на размеченных данных")
+- [Курс 3: Поиск структуры в данных](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Поиск структуры в данных")
 
 ___
 
