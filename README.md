@@ -18,6 +18,8 @@
 - [Курс 1: Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/records/L4BGW84C79RA "Математика и Python для анализа данных")
 - [Курс 2: Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/records/AXR6626EMUJ3 "Обучение на размеченных данных")
 - [Курс 3: Поиск структуры в данных](https://www.coursera.org/account/accomplishments/records/HSK4UU584858 "Поиск структуры в данных")
+- [Курс 4: Построение выводов по данным](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Построение выводов по данным")
+
 
 ___
 
