@@ -21,7 +21,7 @@
 - [Курс 4: Построение выводов по данным](https://www.coursera.org/account/accomplishments/records/KQTZ2CDRJ5UH "Построение выводов по данным")
 - [Курс 5: Прикладные задачи анализа данных](https://www.coursera.org/account/accomplishments/records/L7HMXKP9EKN2 "Прикладные задачи анализа данных")
 - [Курс 6: Анализ данных: Финальный проект](https://www.coursera.org/account/accomplishments/records/U99XKAU4YYAR "Анализ данных: Финальный проект")
-- [Специализация Машинное обучение и анализ данных]((https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Специализация Машинное обучение и анализ данных")
+- [Специализация Машинное обучение и анализ данных](https://www.coursera.org/account/accomplishments/specialization/DC6QPH6QR2V7 "Специализация Машинное обучение и анализ данных")
 ___
 
 Репозиторий разбит на категории по курсам:
