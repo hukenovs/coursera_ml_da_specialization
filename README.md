@@ -95,11 +95,8 @@ ___
 
 ___
 
-### Link:
-  * https://habr.com/users/capitanov/
-
 ### Author:
-  * Kapitanov Alexander
+  * [Kapitanov Alexander](https://habr.com/users/hukenovs/)
 
 ### First release:
   * 2019/10/21
